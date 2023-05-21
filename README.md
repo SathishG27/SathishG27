@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Wipro<br>🤝 I’m looking to contribute in "Open Source Projects".<br>🌱 I’m currently learning Web Development<br>💬 Ask me about " Web Designing, Developing<br>⚡ How to reach me? "sathishganesan.official@gmail.com"
+<br>🤝 I’m looking to contribute in "Open Source Projects".<br>🌱 I’m currently learning Web Development<br>💬 Ask me about " Web Designing, Developing<br>⚡ How to reach me? "sathishganesan.official@gmail.com"
 
 
 ## 🌐 Socials:
